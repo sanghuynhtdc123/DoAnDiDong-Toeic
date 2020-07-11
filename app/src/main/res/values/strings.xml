@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoAnDiDong-ThiToeic</string>
+    <string name="toeic_title">Thi Toeic</string>
+    <string name="thread_number_one">Đề số 1</string>
+    <string name="thread_number_two">Đề số 2</string>
+    <string name="thread_number_three">Đề số 3</string>
+    <string name="thread_number_four">Đề số 4</string>
+    <string name="thread_number_five">Đề số 5</string>
+    <string name="thread_number_six">Đề số 6</string>
+</resources>
