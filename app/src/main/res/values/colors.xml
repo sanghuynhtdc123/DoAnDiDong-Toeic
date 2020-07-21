@@ -9,4 +9,11 @@
     <color name="colorBlack">#000000</color>
     <color name="colorNavy">#000080</color>
     <color name="colorDogerBlue">#1e90ff</color>
+
+    <color name="colorRed">#6495ed</color>
+    <color name="colorbtn">#00ffff</color>
+    <color name="btnBGRbtn">#6495ed</color>
+    <color name="background">#ff00ff</color>
+    <color name="black">#000000</color>
+    <color name="btncolor">#ffd700</color>
 </resources>
