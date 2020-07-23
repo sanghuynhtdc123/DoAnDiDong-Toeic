@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".ToeicNumberSix"></activity>
+        <activity android:name=".ToeicNumberOne" />
         <activity android:name=".ToeicExamScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
