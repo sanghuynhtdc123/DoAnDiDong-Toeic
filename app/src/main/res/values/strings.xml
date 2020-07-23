@@ -8,4 +8,8 @@
     <string name="thread_number_five">Đề số 5</string>
     <string name="thread_number_six">Đề số 6</string>
     <string name="result_toeic">Kết quả</string>
+
+
+    <string name="Part5">Exam No. 5 \n time: 45 minutes</string>
+    <string name="btnNopBai">Nộp bài</string>
 </resources>
