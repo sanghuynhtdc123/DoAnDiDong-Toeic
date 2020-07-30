@@ -12,6 +12,8 @@
     <string name="toeic_textview_two">Thời gian : 45 phút</string>
     <string name="toeic_textview6_one">Đề số 6</string>
     <string name="toeic_textview6_two">Thời gian : 45 phút</string>
+    <string name="Part3">Đề Số 3 \n time: 45 minutes</string>
     <string name="btn_Submit">Nộp bài</string>
+    <string name="btnNopBai">Nộp bài</string>
     <string name="btn6_Submit">Nộp bài</string>
 </resources>
